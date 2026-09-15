@@ -46,15 +46,6 @@
       "description": ""
     },
     {
-      "id": "ipermit-ess",
-      "order": 3,
-      "name": "Individual Permit Package - ESS (iPermit)",
-      "phase": "p2",
-      "duration": 1,
-      "required": 4,
-      "description": "IPermit with energy storage"
-    },
-    {
       "id": "mp-sf",
       "order": 6,
       "name": "Master Plan (MP)",
@@ -65,7 +56,7 @@
     },
     {
       "id": "mppp-sf",
-      "order": 4,
+      "order": 3,
       "name": "Master Permit Package (MPPP)",
       "phase": "p2",
       "duration": 2,
@@ -160,7 +151,7 @@
       "duration": 2,
       "required": 4,
       "description": "",
-      "order": 5
+      "order": 4
     }
   ],
   "trainees": [
@@ -297,16 +288,6 @@
         },
         {
           "courseId": "ipermit",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
-        },
-        {
-          "courseId": "ipermit-ess",
           "startDate": "2026-05-26",
           "endDate": "2026-05-26",
           "result": "none",
@@ -491,16 +472,6 @@
           "trainer": ""
         },
         {
-          "courseId": "ipermit-ess",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
-        },
-        {
           "courseId": "mppp-sf",
           "startDate": "2026-05-26",
           "endDate": "2026-05-26",
@@ -669,16 +640,6 @@
           "trainer": ""
         },
         {
-          "courseId": "ipermit-ess",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
-        },
-        {
           "courseId": "mppp-sf",
           "startDate": "2026-05-26",
           "endDate": "2026-05-26",
@@ -838,16 +799,6 @@
         },
         {
           "courseId": "ipermit",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
-        },
-        {
-          "courseId": "ipermit-ess",
           "startDate": "2026-05-26",
           "endDate": "2026-05-26",
           "result": "none",
