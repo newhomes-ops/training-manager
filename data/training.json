@@ -228,11 +228,11 @@
           "courseId": "iplot",
           "startDate": "2026-03-23",
           "endDate": "2026-03-23",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
+          "result": "pass",
+          "score": "98.93",
+          "completionDate": "2026-04-28",
           "notes": "",
-          "trainer": ""
+          "trainer": "Ronnel Gozon"
         },
         {
           "courseId": "c1778609963787",
