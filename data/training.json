@@ -164,9 +164,149 @@
       "notes": "",
       "plan": [
         {
+          "courseId": "c1778607151419",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "pv",
+          "startDate": "2026-04-14",
+          "endDate": "2026-04-14",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "nh",
+          "startDate": "2026-03-25",
+          "endDate": "2026-03-25",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "c1778609275646",
+          "startDate": "2026-03-25",
+          "endDate": "2026-03-25",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "c1778616031610",
+          "startDate": "2026-03-25",
+          "endDate": "2026-03-25",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "sha",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "c1778610117208",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "iplot",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "c1778609963787",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "fse",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "mp-sf",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "c1778609900411",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
           "courseId": "ipermit",
           "startDate": "2026-08-13",
           "endDate": "2026-08-13",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "mppp-sf",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        },
+        {
+          "courseId": "c1778623578676",
+          "startDate": "2026-03-23",
+          "endDate": "2026-03-23",
           "result": "none",
           "score": "",
           "completionDate": "",
