@@ -278,11 +278,11 @@
           "courseId": "ipermit",
           "startDate": "2026-08-13",
           "endDate": "2026-08-13",
-          "result": "none",
+          "result": "ip",
           "score": "",
-          "completionDate": "",
+          "completionDate": "2026-08-14",
           "notes": "",
-          "trainer": ""
+          "trainer": "Mary Genevieve Mendoza"
         },
         {
           "courseId": "mppp-sf",
