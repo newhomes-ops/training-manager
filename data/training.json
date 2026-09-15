@@ -168,11 +168,11 @@
           "courseId": "pv",
           "startDate": "2026-04-14",
           "endDate": "2026-04-14",
-          "result": "none",
+          "result": "pass",
           "score": "",
-          "completionDate": "",
+          "completionDate": "2026-04-14",
           "notes": "",
-          "trainer": ""
+          "trainer": "Mark Kevin Olivar"
         },
         {
           "courseId": "nh",
