@@ -143,15 +143,6 @@
       "duration": 1,
       "required": 2,
       "description": "Ignite | What is Solar?\nIgnite | 2.1 What is a Site Survey.pptx\nIgnite | Structural Overview\nIgnite | How Electricity Works (clone)\nIgnite | Aurora Practice Neighborhoods"
-    },
-    {
-      "id": "c1778623578676",
-      "name": "Master Permit Package - ESS (MPPP)",
-      "phase": "p2",
-      "duration": 2,
-      "required": 4,
-      "description": "",
-      "order": 4
     }
   ],
   "trainees": [
@@ -295,16 +286,6 @@
         },
         {
           "courseId": "mppp-sf",
-          "startDate": "2026-03-23",
-          "endDate": "2026-03-23",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
-        },
-        {
-          "courseId": "c1778623578676",
           "startDate": "2026-03-23",
           "endDate": "2026-03-23",
           "result": "none",
@@ -477,16 +458,6 @@
           "completionDate": "",
           "notes": "",
           "trainer": ""
-        },
-        {
-          "courseId": "c1778623578676",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
         }
       ],
       "blocks": [
@@ -645,16 +616,6 @@
           "completionDate": "",
           "notes": "",
           "trainer": ""
-        },
-        {
-          "courseId": "c1778623578676",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
         }
       ],
       "blocks": [
@@ -806,16 +767,6 @@
         },
         {
           "courseId": "mppp-sf",
-          "startDate": "2026-05-26",
-          "endDate": "2026-05-26",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
-          "notes": "",
-          "trainer": ""
-        },
-        {
-          "courseId": "c1778623578676",
           "startDate": "2026-05-26",
           "endDate": "2026-05-26",
           "result": "none",
