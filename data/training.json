@@ -238,11 +238,11 @@
           "courseId": "c1778609963787",
           "startDate": "2026-03-23",
           "endDate": "2026-03-23",
-          "result": "none",
+          "result": "pass",
           "score": "",
-          "completionDate": "",
+          "completionDate": "2026-05-13",
           "notes": "",
-          "trainer": ""
+          "trainer": "Mark Kevin Olivar"
         },
         {
           "courseId": "fse",
