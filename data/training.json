@@ -178,11 +178,11 @@
           "courseId": "nh",
           "startDate": "2026-03-25",
           "endDate": "2026-03-25",
-          "result": "none",
+          "result": "pass",
           "score": "",
-          "completionDate": "",
+          "completionDate": "2026-03-25",
           "notes": "",
-          "trainer": ""
+          "trainer": "Mark Kevin Olivar"
         },
         {
           "courseId": "c1778609275646",
