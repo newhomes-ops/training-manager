@@ -820,9 +820,9 @@
           "courseId": "pv",
           "startDate": "2026-09-22",
           "endDate": "2026-09-22",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
+          "result": "pass",
+          "score": "Done",
+          "completionDate": "2026-09-22",
           "notes": "",
           "trainer": ""
         },
