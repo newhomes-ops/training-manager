@@ -960,10 +960,10 @@
           "courseId": "c1778607151419",
           "startDate": "2026-09-22",
           "endDate": "2026-09-22",
-          "result": "none",
+          "result": "pass",
           "score": "",
-          "completionDate": "",
-          "notes": "",
+          "completionDate": "2026-09-22",
+          "notes": "Done",
           "trainer": ""
         },
         {
