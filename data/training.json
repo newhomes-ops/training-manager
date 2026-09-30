@@ -943,6 +943,12 @@
           "type": "Practice",
           "startDate": "2026-09-29",
           "endDate": "2026-10-07"
+        },
+        {
+          "label": "Individual Plot Plan Nesting (4 WW)",
+          "type": "Nesting",
+          "startDate": "2026-10-08",
+          "endDate": "2026-11-05"
         }
       ]
     },
