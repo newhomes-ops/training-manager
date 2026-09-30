@@ -840,11 +840,11 @@
           "courseId": "c1778616031610",
           "startDate": "2026-09-29",
           "endDate": "2026-09-30",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
+          "result": "pass",
+          "score": "Done",
+          "completionDate": "2026-09-29",
           "notes": "",
-          "trainer": ""
+          "trainer": "Self Directed"
         },
         {
           "courseId": "sha",
