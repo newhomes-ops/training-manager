@@ -838,12 +838,12 @@ function detail(el){
       const cfg=BLOCK_COLORS[b.type]||BLOCK_COLORS['Other'];
       const st=d2t(b.startDate),en=d2t(b.endDate||b.startDate);
 
-      h+='<div style="font-size:11px;font-weight:600;color:'+cfg.text+';padding:4px 6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;border-top:1px solid var(--border);display:flex;align-items:center;gap:4px">';
+      h+='<div style="font-size:11px;font-weight:600;color:'+cfg.text+';padding:4px 6px;border-top:1px solid var(--border);display:flex;align-items:center;gap:4px;overflow:visible;position:sticky;left:0;z-index:1;background:var(--bg);border-right:1px solid var(--border2)">';
       h+='<span style="width:8px;height:8px;border-radius:2px;background:'+cfg.border+';display:inline-block;flex-shrink:0"></span>';
-      h+=b.label;
+      h+='<span style="flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">'+b.label+'</span>';
       if(editMode){
-        h+=' <button class="btn" style="height:16px;padding:0 4px;font-size:9px;margin-left:4px" data-tid="'+t.id+'" data-bid="'+bi+'" onclick="editBlock(this.dataset.tid,parseInt(this.dataset.bid))">&#9998;</button>';
-        h+=' <button class="btn bd" style="height:16px;padding:0 4px;font-size:9px" data-tid="'+t.id+'" data-bid="'+bi+'" onclick="delBlock(this.dataset.tid,parseInt(this.dataset.bid))">&#10005;</button>';
+        h+='<button class="btn" style="height:16px;padding:0 4px;font-size:9px;flex-shrink:0" data-tid="'+t.id+'" data-bid="'+bi+'" onclick="editBlock(this.dataset.tid,parseInt(this.dataset.bid))">&#9998;</button>';
+        h+='<button class="btn bd" style="height:16px;padding:0 4px;font-size:9px;flex-shrink:0" data-tid="'+t.id+'" data-bid="'+bi+'" onclick="delBlock(this.dataset.tid,parseInt(this.dataset.bid))">&#10005;</button>';
       }
       h+='</div>';
 
