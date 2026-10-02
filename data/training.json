@@ -809,11 +809,11 @@
           "courseId": "c1790957784877",
           "startDate": "2026-10-02",
           "endDate": "2026-10-02",
-          "result": "none",
+          "result": "pass",
           "score": "",
-          "completionDate": "",
+          "completionDate": "2026-10-02",
           "notes": "",
-          "trainer": ""
+          "trainer": "Self-Directed"
         }
       ]
     },
