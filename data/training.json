@@ -143,6 +143,15 @@
       "duration": 1,
       "required": 2,
       "description": "Ignite | What is Solar?\nIgnite | 2.1 What is a Site Survey.pptx\nIgnite | Structural Overview\nIgnite | How Electricity Works (clone)\nIgnite | Aurora Practice Neighborhoods"
+    },
+    {
+      "id": "c1790957784877",
+      "name": "PV Estimate - BESS",
+      "phase": "p3",
+      "duration": 1,
+      "required": 4,
+      "description": "BESS Self directed training",
+      "order": 3
     }
   ],
   "trainees": [
