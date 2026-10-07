@@ -1167,7 +1167,18 @@
       "code": "JCS",
       "startDate": "2026-10-07",
       "notes": "",
-      "plan": []
+      "plan": [
+        {
+          "courseId": "c1791386257103",
+          "startDate": "2026-10-07",
+          "endDate": "2026-10-07",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
+        }
+      ]
     }
   ],
   "members": [
