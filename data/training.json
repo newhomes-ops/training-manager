@@ -152,6 +152,15 @@
       "required": 4,
       "description": "BESS Self directed training",
       "order": 3
+    },
+    {
+      "id": "c1791386257103",
+      "name": "Single-Axis Tracker Study",
+      "phase": "p3",
+      "duration": 5,
+      "required": 4,
+      "description": "",
+      "order": 4
     }
   ],
   "trainees": [
