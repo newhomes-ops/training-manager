@@ -1163,6 +1163,12 @@
           "type": "Nesting",
           "startDate": "2026-10-16",
           "endDate": "2026-11-16"
+        },
+        {
+          "label": "Future Solar Exhibit Practice",
+          "type": "Practice",
+          "startDate": "2026-10-09",
+          "endDate": "2026-10-16"
         }
       ]
     },
