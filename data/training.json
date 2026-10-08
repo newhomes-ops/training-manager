@@ -1178,6 +1178,14 @@
           "notes": "",
           "trainer": "Self Directed"
         }
+      ],
+      "blocks": [
+        {
+          "label": "Single-Axis Tracker Study",
+          "type": "Practice",
+          "startDate": "2026-10-01",
+          "endDate": "2026-11-01"
+        }
       ]
     }
   ],
