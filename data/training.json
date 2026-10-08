@@ -161,6 +161,15 @@
       "required": 4,
       "description": "",
       "order": 4
+    },
+    {
+      "id": "c1791497753620",
+      "name": "Energy Toolbase",
+      "phase": "p3",
+      "duration": 1,
+      "required": 4,
+      "description": "Tool for Commercial Quote",
+      "order": 5
     }
   ],
   "trainees": [
