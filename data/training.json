@@ -832,6 +832,16 @@
           "completionDate": "2026-10-02",
           "notes": "",
           "trainer": "Self-Directed"
+        },
+        {
+          "courseId": "c1791497753620",
+          "startDate": "2026-10-09",
+          "endDate": "2026-10-09",
+          "result": "none",
+          "score": "",
+          "completionDate": "",
+          "notes": "",
+          "trainer": ""
         }
       ]
     },
