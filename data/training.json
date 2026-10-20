@@ -897,8 +897,8 @@
           "courseId": "sha",
           "startDate": "2026-09-29",
           "endDate": "2026-09-29",
-          "result": "none",
-          "score": "",
+          "result": "pass",
+          "score": "96",
           "completionDate": "2026-09-30",
           "notes": "",
           "trainer": "John Patrick Salazar"
