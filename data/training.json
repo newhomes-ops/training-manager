@@ -937,8 +937,8 @@
           "courseId": "fse",
           "startDate": "2026-10-08",
           "endDate": "2026-10-08",
-          "result": "none",
-          "score": "",
+          "result": "pass",
+          "score": "96",
           "completionDate": "2026-10-08",
           "notes": "",
           "trainer": "John Patrick Salazar"
