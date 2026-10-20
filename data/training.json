@@ -1103,9 +1103,9 @@
           "courseId": "fse",
           "startDate": "2026-10-08",
           "endDate": "2026-09-08",
-          "result": "none",
-          "score": "",
-          "completionDate": "",
+          "result": "pass",
+          "score": "100",
+          "completionDate": "2026-10-09",
           "notes": "",
           "trainer": ""
         },
