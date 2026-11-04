@@ -1219,9 +1219,9 @@
           "courseId": "c1791386257103",
           "startDate": "2026-10-07",
           "endDate": "2026-10-07",
-          "result": "none",
-          "score": "",
-          "completionDate": "2026-09-30",
+          "result": "pass",
+          "score": "Done",
+          "completionDate": "2026-10-31",
           "notes": "",
           "trainer": "Self Directed"
         }
